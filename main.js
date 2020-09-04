@@ -405,7 +405,7 @@ AppComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineCompo
                 styleUrls: ['./app.component.css']
             }]
     }], null, null); })();
-console.log("py1");
+console.log("Prueba f");
 
 
 /***/ }),
